@@ -1,0 +1,2 @@
+Cliente:  CPF = 123.456.678-92, NOME = Aguero, EMAIL = aguero@ufu.br, ENDERECO = Rua da agua, DATA NASCIMENTO =  1/12/2001
+Cliente:  CPF = 11111111111, NOME = Elaine, EMAIL = elaine@.com, ENDERECO = r, DATA NASCIMENTO =  12/12/2010
